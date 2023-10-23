@@ -1,7 +1,7 @@
 # Norges navn
 Inkluderer alle navn registrert i Norge i array json-format. <br>
 
-![SSB Logo](https://www.ssb.no/_/asset/mimir:0000018b5c1d8380/SSB_logo_black.svg)
+![SSB Logo](https://github.com/Fredneyy/norgesnavn/assets/69763370/36e01067-f230-4af0-8141-09a00401e45f)
 
 ## Fotnoter
 SSB har lagt opp data slik at
