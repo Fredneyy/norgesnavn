@@ -5,8 +5,7 @@ Inkluderer alle navn registrert i Norge i array json-format. <br>
 
 ## Fotnoter
 SSB har lagt opp data slik at
-* Alle etternavn i listen er brukt av 200 personer eller fler ved utgangen av året.
-* Alle fornavn i listen er brukt av 200 personer eller fler ved utgangen av året.
+* Etternavn og fornavn i listen brukt av under 200 personer ved utgangen av året er også med i listen.
 * Tallene omfatter personer med norsk personnummer.
 
 
